@@ -15,6 +15,7 @@ body {
 }
 
 .container {
+  position: relative;
   width: 80%;
   height:50vh;
   background-color: #6633cc;
@@ -54,6 +55,10 @@ body {
 .option:hover {
   background: #3355aa;
 }
+.option.selected{
+  background: rgb(238, 104, 200);
+}
+
 
 .left {
   float: left;
@@ -70,4 +75,14 @@ body {
   padding:10px 20px;
   border-top-right-radius: 5px;
   border-bottom-left-radius: 5px;
+}
+
+.score {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 20em;
+  text-align: center;
+  transform: translate(-50%, -100%);
+  font-size: 1.4em;
 }
