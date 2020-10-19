@@ -10,7 +10,7 @@ ques_arr = [
   {q: "What is the molecular weight of Deuterium?  (in amu)", options: ["1","2","86","82"], correct_answer: 1},
   {q: "What is the capital of Andhra Pradesh?", options: ["Hyderabad","Banglore","Chennai","Amaravati"], correct_answer: 3},
   {q: "Who is the CEO of SpaceX ?", options: ["Elon Mask","Eleven Must","Ellen Mosk","Elon Musk"], correct_answer: 3},
-  {q: "Which country has the Earliest Clock?", options: ["New Zealand","Japan","Tokyo","Yash Gulati"], correct_answer: 3},
+  {q: "Which country has the Earliest Clock?", options: ["New Zealand","Japan","Tokyo","India"], correct_answer: 0},
   {q: "What does 'Frere' mean?", options: ["Father","Friend","Brother","Husband"], correct_answer: 2},
   {q: "How many cubes are there in a Rubik's Cube?", options: ["27","26","36","54"], correct_answer: 1},
   {q: "On which date Damodardas Mulchand Modi born?", options: ["1915","1945","205 A.D.","1954"], correct_answer: 0},
